@@ -19,7 +19,7 @@ function ProfilePage() {
       </div>
       <div className="profile-details">
         <div className="detail">
-          <p><strong>Name:</strong> Rajneesh Rana</p>
+          <p><strong>Name:</strong> Tarun</p>
         </div>
         <div className="detail">
           <p><strong>Role:</strong> Developer</p>
