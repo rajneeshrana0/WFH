@@ -5,14 +5,14 @@ function RegisteredUser() {
   const [users, setUsers] = useState([
     {
       id: 1,
-      username: "Rajneesh Rana",
+      username: "Tarun ",
       userType: "Student",
       photo:
         "https://portfolio-six-phi-17.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frajneesh.914ed7ad.png&w=384&q=95",
     },
     {
       id: 2,
-      username: "Nitish Kumar",
+      username: "Rajneesh Rana",
       userType: "emplooye",
       photo:
         "https://portfolio-six-phi-17.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frajneesh.914ed7ad.png&w=384&q=95",
