@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { SidebarData } from "./SidebarData";
 import "./Navbar.css";
 import { IconContext } from "react-icons";
+import Logo from "../assest/nav-logo.jpeg";
 
 import axios from "axios";
 
