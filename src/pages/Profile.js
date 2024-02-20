@@ -28,7 +28,7 @@ function ProfilePage() {
           <p><strong>DOB:</strong> January 13, 2000</p>
         </div>
         <div className="detail">
-          <p><strong>Email:</strong> ranarajneesh075@gmail.com</p>
+          <p><strong>Email:</strong> tarun05@gmail.com</p>
         </div>
         <div className="detail">
           <p><strong>Phone:</strong> 0123456789</p>
